@@ -85,7 +85,6 @@ a:visited {
     height: 2rem;
 }
 
-
 nav {
     opacity: 0;
     display: grid;
@@ -109,7 +108,6 @@ nav {
                             "mail phone1 phone2 addContact";
     }
 }
-
 
 nav > * {
     text-align: center;
@@ -142,5 +140,4 @@ nav > * {
 
 .addContact {
     grid-area: addContact;
-}
 }
