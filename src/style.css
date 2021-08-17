@@ -96,8 +96,9 @@ a:visited {
 .line {
     opacity: 0;
     flex: 1;
-    border-left: 1px solid var(--main-color);
-    border-color: rgb(255 255 255 / 8%);
+    border-left-width: 2px;
+    border-left-style: solid;
+    border-color: rgb(255 255 255 / 10%);
     animation: fade 0.5s ease-in forwards;
 }
 
