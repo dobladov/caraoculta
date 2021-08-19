@@ -13,6 +13,7 @@ html {
 body, html {
     margin: 0;
     padding: 0;
+    height: -webkit-fill-available;
 }
 
 :root {
@@ -38,6 +39,7 @@ body {
     display: flex;
     flex-direction: column;
     min-height: 100vh;
+    min-height: -webkit-fill-available;
 }
 
 main {
