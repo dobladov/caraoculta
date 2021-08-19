@@ -115,12 +115,12 @@ nav {
 
 nav > * {
     text-align: center;
-    padding: 20px;
+    padding: 1.2rem;
     align-self: center;
 }
 
 .socials {
-    gap: 40px;
+    gap: 3rem;
 }
 
 .socials {
